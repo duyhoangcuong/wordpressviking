@@ -1,0 +1,48 @@
+[27-Jan-2021 06:40:46 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in E:\Cuong\xampp\htdocs\vikingwebsite\wp-includes\update.php on line 612
+[27-Jan-2021 06:41:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 06:41:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 07:04:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in E:\Cuong\xampp\htdocs\vikingwebsite\wp-includes\update.php on line 408
+[27-Jan-2021 07:04:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in E:\Cuong\xampp\htdocs\vikingwebsite\wp-content\plugins\yith-woocommerce-zoom-magnifier\lib\class.yith-woocommerce-zoom-magnifier.php on line 152
+[27-Jan-2021 07:04:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in E:\Cuong\xampp\htdocs\vikingwebsite\wp-content\plugins\yith-woocommerce-zoom-magnifier\lib\class.yith-woocommerce-zoom-magnifier.php on line 153
+[27-Jan-2021 07:18:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in E:\Cuong\xampp\htdocs\vikingwebsite\wp-includes\update.php on line 408
+[27-Jan-2021 07:26:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 07:26:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 07:28:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 07:28:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+			AND meta_key IN ('')' at line 3 for query 
+			SELECT post_id as variation_id, meta_key as attribute_key, meta_value as attribute_value
+			FROM wp_postmeta
+			WHERE post_id IN ()
+			AND meta_key IN ('')
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Blocks\StoreApi\Routes\AbstractRoute->get_response, Automattic\WooCommerce\Blocks\StoreApi\Routes\Products->get_route_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response, Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_variations
+[27-Jan-2021 07:29:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in E:\Cuong\xampp\htdocs\vikingwebsite\wp-content\plugins\translatepress-multilingual\includes\class-language-switcher.php on line 439
